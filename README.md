@@ -1,5 +1,13 @@
 # flutterApp
-app for ios ,android ,web
+app for ios ,android ,web 
+![IMG_0083](https://github.com/pen110/flutterApp/assets/7963859/390241bc-2650-40cc-9e70-15a94614e83e)
+
+
+video link for this app
+
+链接: https://pan.baidu.com/s/1MtPwpoaacLJ157sO_go56Q 提取码: 958c
+
+
 
 ![Simulator Screenshot - iPhone 13 - 2023-12-09 at 21 54 47](https://github.com/pen110/flutterApp/assets/7963859/310147e5-76ad-41af-ad6f-f2e9ea49282f)
 ![Simulator Screenshot - iPhone 13 - 2023-12-09 at 21 54 50](https://github.com/pen110/flutterApp/assets/7963859/3c0bdd25-a693-4f1c-99d7-f8e35c869da8)
